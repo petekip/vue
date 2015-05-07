@@ -1,8 +1,7 @@
-dist/vue.min.js.gz
-test/unit/specs.js
-explorations
-node_modules
-.DS_Store
-.idea
-benchmarks/browser.js
-coverage
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
